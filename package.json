@@ -1,0 +1,19 @@
+{
+  "name": "worm-ai",
+  "version": "1.0.0",
+  "description": "Worm AI (Grok) CLI client - chat with Grok from your terminal",
+  "main": "cli.js",
+  "bin": {
+    "worm-ai": "./cli.js"
+  },
+  "keywords": ["ai", "grok", "cli", "chatbot", "worm-ai"],
+  "author": "Mohammad Rahad",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MR-RAHAD/worm-ai.git"
+  }
+}

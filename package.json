@@ -6,6 +6,10 @@
   "bin": {
     "worm-ai": "./cli.js"
   },
+  "files": [
+    "cli.js",
+    "README.md"
+  ],
   "keywords": ["ai", "grok", "cli", "chatbot", "worm-ai"],
   "author": "Mohammad Rahad",
   "license": "MIT",
